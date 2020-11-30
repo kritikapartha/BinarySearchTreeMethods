@@ -1,12 +1,6 @@
 /*****************************************************************************************************************
  NAME: Kritika Partha
- PERIOD: 6
- DUE DATE: 1/22/2020
-
- PURPOSE: Learn how to implement basic binary search tree methods
-
- WHAT I LEARNED: I learned how to implement all the methods both iteratively and recursively. Also, for binary search trees
- I learned that to display the data smallest to largest, you simply do an inorder traversal of the tree.
+ DATE: 1/22/2020
 
  ****************************************************************************************************/
 import java.util.Scanner;
